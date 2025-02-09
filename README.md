@@ -40,4 +40,4 @@ This repository is for my personal coursework, so external contributions are not
 
 ## License
 
-This coursewrok is for personal academic purpose. Unauthorized use, distribution, or submission as academic work is prohibited. 
+This coursework is for personal academic purpose. Unauthorized use, distribution, or submission as academic work is prohibited. 
